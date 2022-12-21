@@ -1,7 +1,7 @@
 import java.sql.SQLException;
 import java.util.Iterator;
 
-import br.com.gabriel.jdbc.ConnectionFactory;
+import br.com.gabriel.jdbc.factory.ConnectionFactory;
 
 public class TestaPoolConexoes {
 

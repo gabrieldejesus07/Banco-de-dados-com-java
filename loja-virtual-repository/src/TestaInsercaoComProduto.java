@@ -5,8 +5,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
 
-import br.com.gabriel.jdbc.ConnectionFactory;
 import br.com.gabriel.jdbc.DAO.ProdutoDAO;
+import br.com.gabriel.jdbc.factory.ConnectionFactory;
 import br.com.gabriel.jdbc.modelo.Produto;
 
 public class TestaInsercaoComProduto {

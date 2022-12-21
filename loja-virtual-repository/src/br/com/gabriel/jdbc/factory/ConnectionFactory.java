@@ -1,4 +1,4 @@
-package br.com.gabriel.jdbc;
+package br.com.gabriel.jdbc.factory;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -15,7 +15,7 @@ public class ConnectionFactory {
 		ComboPooledDataSource comboPooledDataSource = new ComboPooledDataSource();
 		comboPooledDataSource.setJdbcUrl("jdbc:mysql://localhost/loja_virtual?useTimezone=true&serverTimezone=UTC");
 		comboPooledDataSource.setUser("root");
-		comboPooledDataSource.setPassword("password");
+		comboPooledDataSource.setPassword("Gabriel1271@");
 		
 		comboPooledDataSource.setMaxPoolSize(15);
 		
