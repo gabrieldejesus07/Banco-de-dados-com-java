@@ -6,8 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Atendimento Onitel/Documents/Projetos/Projeto Java/Banco-de-dados-com-java/loja-virtual-repository/lib/c3p0-0.9.5.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Atendimento Onitel/Documents/Projetos/Projeto Java/Banco-de-dados-com-java/loja-virtual-repository/lib/mchange-commons-java-0.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Atendimento Onitel/Documents/Projetos/Projeto Java/Banco-de-dados-com-java/loja-virtual-repository/lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="/home/gabriel/eclipse-workspace/loja-virtual-repository/lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="/home/gabriel/eclipse-workspace/loja-virtual-repository/lib/c3p0-0.9.5.4.jar"/>
+	<classpathentry kind="lib" path="/home/gabriel/eclipse-workspace/loja-virtual-repository/lib/mchange-commons-java-0.2.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
